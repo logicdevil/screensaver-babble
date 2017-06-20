@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: /home/daymond/Documents/Java/Screensaver/src
+Main-Class: Screensaver
+
